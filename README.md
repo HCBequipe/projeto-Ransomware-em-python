@@ -1,4 +1,4 @@
-# projeto-ramsonware-em-python
+# projeto-Ransomware-em-python
 
 # Simulação e Análise de Ransomware com Python
 
